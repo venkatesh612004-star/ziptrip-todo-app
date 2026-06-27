@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Learn React and Express",
+    "description": "Complete the React tutorial",
+    "completed": true,
+    "priority": "High"
+  },
+  {
+    "id": 3,
+    "title": "Finish ZipTrip Challenge",
+    "description": "Complete CRUD APIs",
+    "completed": true,
+    "priority": "High"
+  },
+  {
+    "id": 5,
+    "title": "Prepare for ZipTrip Interview",
+    "description": "Practice React and JavaScript",
+    "completed": false,
+    "priority": "Medium"
+  }
+]
